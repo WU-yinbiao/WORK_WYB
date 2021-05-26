@@ -1,0 +1,34 @@
+.login-register {
+    width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
+  .login-register a {
+    text-decoration: none;
+    margin-left: 5px;
+  }
+  
+  .login-register .login-main {
+    width: 358px;
+    box-sizing: border-box;
+  }
+  
+  .login-register .login-main input {
+    display: block;
+    margin-top: 10px;
+    margin-bottom: 10px;
+  }
+  
+  .login-register .register-main {
+    width: 358px;
+    box-sizing: border-box;
+    display: none;
+  }
+  
+  .login-register .register-main input {
+    display: block;
+    margin-top: 10px;
+    margin-bottom: 10px;
+  }
+  
